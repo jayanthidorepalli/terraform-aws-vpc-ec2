@@ -22,6 +22,9 @@ terraform init
 terraform validate
 terraform plan
 terraform apply
+## Architecture Diagram
+
+![Terraform Architecture] (terraform-architecture.png)
 
 ## Destroy
 
